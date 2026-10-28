@@ -11,4 +11,4 @@ Our tool helps you optimize your Windows operating system. Specifically, it prov
 - Removes bloatware (unwanted applications)
 - And much more!
 
-To get the optimizer, go to [release]().
+To get the optimizer, go to [release](https://github.com/quantum-optimizer-offical/Quantum-Optimizer/releases/tag/V5).
