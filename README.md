@@ -7,7 +7,7 @@ We currently support all common versions of the Windows operating system, from W
 Our tool helps you optimize your Windows operating system. Specifically, it provides the following:
 |Optimization|
 |:---:|
-|Converts a full version of Windows into a lite vertion.|
+|Converts a full version of Windows into a lite version.|
 |Optimizes RAM and CPU usage.|
 |Transforms the interface to resemble Windows LTSC-like|
 |Removes bloatware|
